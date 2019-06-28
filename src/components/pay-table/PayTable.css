@@ -1,0 +1,15 @@
+.pay-table {
+  width: 100%;
+}
+
+.pay-table {
+  border: 3px solid gold;
+  border-radius: 20px;
+  background: white;
+  color: black;
+}
+.pay-table td {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 2px 20px;
+}
