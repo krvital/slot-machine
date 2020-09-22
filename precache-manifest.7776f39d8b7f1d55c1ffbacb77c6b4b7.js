@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f17576d5c63d35171028b6fbaee7c07b",
+    "revision": "3cca53f1c4950832d5b976a8c14f1506",
     "url": "/slot-machine/index.html"
   },
   {
-    "revision": "9a1b25c9a4fb6440495d",
-    "url": "/slot-machine/static/css/main.eed04245.chunk.css"
+    "revision": "1275db5489fd1849a82d",
+    "url": "/slot-machine/static/css/main.35898213.chunk.css"
   },
   {
     "revision": "eecc6995b722283c13d4",
     "url": "/slot-machine/static/js/2.521f8165.chunk.js"
   },
   {
-    "revision": "9a1b25c9a4fb6440495d",
+    "revision": "1275db5489fd1849a82d",
     "url": "/slot-machine/static/js/main.4484d846.chunk.js"
   },
   {
